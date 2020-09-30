@@ -553,7 +553,7 @@ footer {
    Contact section              
 -----------------------------------------*/
 #contact {
-    background: url('../images/reg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/register-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
 }
